@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Azhar Ayyash) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Azhar Ayyash](https://www.linkedin.com/in/az-har-ayyash/)) 
 
 
 [![](https://visitcount.itsvg.in/api?id=Az-har&icon=2&color=9)](https://visitcount.itsvg.in)
