@@ -2,10 +2,10 @@
 
 # Hi there, I'm Azhar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Data+Engineer+%7C+Celonis+Process+Mining;Order-to-Cash+(O2C)+Intelligence;Databricks+%26+Modern+Data+Pipelines;Autonomous+AI+%26+Local+Agentic+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Data+Engineer+%7C+Celonis+Process+Mining%3BOrder-to-Cash+(O2C)+Intelligence%3BDatabricks+%26+Modern+Data+Pipelines%3BAutonomous+AI+%26+Local+Agentic+Systems)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>Data Engineer</b> specializing in <b>Celonis Process Mining</b>, enterprise data transformations, and autonomous AI pipelines.
+  <b>Data Engineer</b> specializing in <b>Celonis Process Mining</b>, enterprise data pipelines, and autonomous applied AI.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/az-har-ayyash/)
@@ -18,11 +18,11 @@
 
 ### 🎯 About Me
 
-I specialize in transforming complex transactional event logs into actionable business value through **Celonis Process Mining**, modern **Data Engineering**, and **Applied AI**. My core domain focus includes:
+I design and build enterprise data platforms, process intelligence systems, and applied AI pipelines. My core focus spans:
 
-- **Celonis & Process Intelligence**: Deep expertise in **Order-to-Cash (O2C)** and **Procure-to-Pay (P2P)** data modeling, PQL analytics, Celonis Studio, and Action Engine automation.
-- **Data Engineering**: Architecting robust batch and analytical data pipelines leveraging **Databricks**, **Apache Spark**, **dbt**, **DuckDB**, and **PostgreSQL**.
-- **Applied AI & Agentic Systems**: Designing self-evaluating local AI pipelines, Whisper ASR engines, and enterprise RAG validation frameworks.
+- **Celonis Process Mining**: Deep experience in **Order-to-Cash (O2C)** and **Procure-to-Pay (P2P)** event-log modeling, PQL analytics, Celonis Studio, and Action Engine automated workflows.
+- **Modern Data Engineering**: Architecting reliable batch, dimensional, and lakehouse pipelines using **Databricks**, **Apache Spark**, **dbt**, **DuckDB**, and **PostgreSQL**.
+- **Autonomous AI & Pipeline Systems**: Engineering hardware-accelerated local speech engines (Whisper Vulkan), LLM evaluation loops, and enterprise RAG validation frameworks.
 
 ---
 
@@ -33,77 +33,78 @@ I specialize in transforming complex transactional event logs into actionable bu
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Az-har/O2C_AI">🚀 O2C_AI</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Celonis-000000?style=flat-square&logo=celonis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RAG%20%26%20ML-00A4EF?style=flat-square"/>
+        <a href="https://github.com/Az-har/O2C_AI"><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" /></a>
+        <a href="https://github.com/Az-har/O2C_AI"><img src="https://img.shields.io/badge/Celonis-PQL%20%7C%20O2C-2563EB?style=flat-square" alt="Celonis" /></a>
+        <a href="https://github.com/Az-har/O2C_AI"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+        <a href="https://github.com/Az-har/O2C_AI"><img src="https://img.shields.io/badge/RAG%20%26%20ML-00A4EF?style=flat-square" alt="RAG" /></a>
       </p>
-      <p><b>Enterprise Order-to-Cash (O2C) Process Intelligence & AI Engine</b></p>
+      <p><strong>Enterprise Order-to-Cash (O2C) Process Intelligence &amp; AI Engine</strong></p>
       <ul>
-        <li><b>Process Optimization</b>: Designed to resolve friction, bottlenecks, and execution gaps in Order-to-Cash workflows.</li>
-        <li><b>Scalable Architecture</b>: Built on Databricks with vectorized batch prediction, environmental memory caching, and automated ML evaluation.</li>
-        <li><b>RAG Validation</b>: Multi-input retrieval validation framework ensuring high-fidelity enterprise decision support.</li>
+        <li><strong>Process Bottleneck Resolution</strong>: Flags delivery delays and resolves execution gaps in transactional SAP/Celonis O2C flows.</li>
+        <li><strong>Databricks Master Pipeline</strong>: Scalable daily scoring with vectorized batch inference, environmental caching, and automated ML evaluation.</li>
+        <li><strong>Multi-Input RAG Validation</strong>: Semantic ChromaDB retrieval cross-verifying contractual SLAs, disruption documents, and penalty exposure ($).</li>
       </ul>
-      <p align="center"><a href="https://github.com/Az-har/O2C_AI"><b>Explore O2C_AI →</b></a></p>
+      <p align="center">
+        <a href="https://github.com/Az-har/O2C_AI"><strong>Explore O2C_AI &rarr;</strong></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Az-har/youtube-summarizer-audiobook">🎧 YouTube Summarizer & Audiobook AI</a></h3>
+      <h3 align="center"><a href="https://github.com/Az-har/youtube-summarizer-audiobook">🎧 YouTube Summarizer &amp; Audiobook AI</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Whisper_large--v3-000000?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AMD_Vulkan-ED1C24?style=flat-square&logo=amd&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ollama_LLM-FFFFFF?style=flat-square&logo=ollama&logoColor=black"/>
-        <img src="https://img.shields.io/badge/EBU_R128-00599C?style=flat-square"/>
+        <a href="https://github.com/Az-har/youtube-summarizer-audiobook"><img src="https://img.shields.io/badge/Whisper-large--v3-000000?style=flat-square&logo=openai&logoColor=white" alt="Whisper" /></a>
+        <a href="https://github.com/Az-har/youtube-summarizer-audiobook"><img src="https://img.shields.io/badge/AMD_Vulkan-ED1C24?style=flat-square&logo=amd&logoColor=white" alt="AMD Vulkan" /></a>
+        <a href="https://github.com/Az-har/youtube-summarizer-audiobook"><img src="https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat-square" alt="Ollama" /></a>
+        <a href="https://github.com/Az-har/youtube-summarizer-audiobook"><img src="https://img.shields.io/badge/Audio-EBU_R128-00599C?style=flat-square" alt="Audio" /></a>
       </p>
-      <p><b>Autonomous 5-Agent Media & Audio Pipeline</b></p>
+      <p><strong>Autonomous 5-Agent Media &amp; Audio Mastering Pipeline</strong></p>
       <ul>
-        <li><b>Acoustic Perception</b>: Hardware-accelerated Whisper <code>large-v3</code> running on AMD GPU via Vulkan compute with Silero VAD.</li>
-        <li><b>Self-Evaluating Critic Loop</b>: LLM judge scoring narrative quality, factual consistency, and sponsor removal before approval.</li>
-        <li><b>Studio Mastering</b>: Broadcast-standard audio normalization (EBU R128, -16 LUFS) with ID3v2 chapter tagging.</li>
+        <li><strong>Acoustic Perception</strong>: Hardware-accelerated Whisper <code>large-v3</code> on AMD GPUs via Vulkan compute with Silero VAD neural pre-filtering.</li>
+        <li><strong>Self-Evaluating Critic Loop</strong>: Autonomous multi-turn LLM judge auditing factual consistency, narrative flow, and ad purging.</li>
+        <li><strong>Broadcast Mastering</strong>: Studio-grade audio normalization to <strong>EBU R128 (-16 LUFS)</strong> with ID3v2 chapter embedding.</li>
       </ul>
-      <p align="center"><a href="https://github.com/Az-har/youtube-summarizer-audiobook"><b>Explore Audiobook AI →</b></a></p>
+      <p align="center">
+        <a href="https://github.com/Az-har/youtube-summarizer-audiobook"><strong>Explore Audiobook AI &rarr;</strong></a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📂 Supporting Portfolio
+### 📂 Additional Engineering Repositories
 
-- **[automotive-analytics-project](https://github.com/Az-har/automotive-analytics-project)**: End-to-end modern analytics pipeline transforming raw vehicle telemetry and specs into dimensional marts using **dbt**, **DuckDB**, and **SQL**.
-- **[scratchpad-python](https://github.com/Az-har/scratchpad-python)**: Curated collection of algorithmic tools, mathematical terminal renderers (3D ASCII donut), and security utilities.
+- **[automotive-analytics-project](https://github.com/Az-har/automotive-analytics-project)**: Modern analytics engineering pipeline transforming raw automotive datasets into multi-tier dimensional marts using **dbt**, **DuckDB**, and **SQL**.
+- **[scratchpad-python](https://github.com/Az-har/scratchpad-python)**: Curated standalone Python tools, 3D mathematical terminal graphics (`donut.py`), and CLI utilities.
 
 ---
 
 ### 🛠️ Technical Skills
 
-<div align="left">
-
-| Domain | Technologies & Competencies |
-| :--- | :--- |
-| **Process Mining & Intelligence** | **Celonis EMS**, PQL (Process Query Language), Celonis Studio, Action Engine, PyCelonis, Event Log Modeling, O2C, P2P |
-| **Data Engineering & Platforms** | **Databricks**, **Apache Spark / PySpark**, **dbt**, **DuckDB**, **Snowflake**, **PostgreSQL**, Docker, Linux / Bash |
-| **Languages & Analytics** | **Python**, **SQL**, **PQL**, Pandas, NumPy, Scikit-Learn, Plotly, Power BI |
-| **Applied AI & Systems** | Local LLMs (**Ollama**), **Whisper ASR** (Vulkan / GGML), **Silero VAD**, RAG Pipelines, **FFmpeg** |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Celonis-EMS%20%7C%20PQL-2563EB?style=for-the-badge" alt="Celonis" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Az-har&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Azhar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az-har&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Az-har&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Az-har&theme=tokyonight&show_icons=true&hide_border=true" alt="Azhar's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Az-har&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed & engineered by <b>Azhar</b> • Powered by Celonis Process Mining, Data Engineering, and Applied AI</sub>
+  <sub>Engineered by <b>Azhar</b> • Specialized in Celonis Process Mining, Data Engineering, and Applied AI</sub>
 </div>
