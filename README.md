@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Data+Engineer+%7C+Celonis+Process+Mining%3BOrder-to-Cash+(O2C)+Intelligence%3BDatabricks+%26+Modern+Data+Pipelines%3BAutonomous+AI+%26+Local+Agentic+Systems)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>Data Engineer</b> specializing in <b>Celonis Process Mining</b>, enterprise data pipelines, and autonomous applied AI.
+  <b>Data Engineer</b> specializing in <b>Celonis Process Mining</b>, high-throughput enterprise pipelines, and autonomous applied AI systems.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/az-har-ayyash/)
@@ -16,17 +16,80 @@
 
 ---
 
-### 🎯 About Me
+### 📐 End-to-End Enterprise Data & Process Architecture
 
-I design and build enterprise data platforms, process intelligence systems, and applied AI pipelines. My core focus spans:
+```mermaid
+flowchart LR
+    subgraph INGEST ["1. ERP & Telemetry Ingestion"]
+        direction TB
+        SAP["SAP ERP (VBAK, VBAP, LIKP, LIPS)"]
+        EXT["Live Weather & Disruption Feeds"]
+    end
 
-- **Celonis Process Mining**: Deep experience in **Order-to-Cash (O2C)** and **Procure-to-Pay (P2P)** event-log modeling, PQL analytics, Celonis Studio, and Action Engine automated workflows.
-- **Modern Data Engineering**: Architecting reliable batch, dimensional, and lakehouse pipelines using **Databricks**, **Apache Spark**, **dbt**, **DuckDB**, and **PostgreSQL**.
-- **Autonomous AI & Pipeline Systems**: Engineering hardware-accelerated local speech engines (Whisper Vulkan), LLM evaluation loops, and enterprise RAG validation frameworks.
+    subgraph PROCESS ["2. Celonis Process Intelligence"]
+        direction TB
+        EMS["Celonis EMS Event Logs"]
+        PQL["PQL Root-Cause & Rework Metrics"]
+        AE["Action Engine Auto Write-Backs"]
+    end
+
+    subgraph PLATFORMS ["3. Lakehouse & Applied AI"]
+        direction TB
+        DB["Databricks Master Pipeline"]
+        ML["Engine A: Delay Predictor (XGBoost)"]
+        RAG["Engine B: SLA & Policy RAG (ChromaDB)"]
+    end
+
+    subgraph OUTCOME ["4. Operational Impact"]
+        direction TB
+        DSO["Reduced DSO & Billing Disputes"]
+        SLA["Proactive SLA Breach Mitigation ($)"]
+    end
+
+    SAP --> EMS
+    EMS --> PQL --> AE
+    SAP --> DB
+    EXT --> DB
+    DB --> ML --> SLA
+    DB --> RAG --> DSO
+```
 
 ---
 
-### 🌟 Core Flagship Projects
+### 📦 Process Engineering & Capabilities
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🔍 Celonis & Process Mining</h4>
+      <ul>
+        <li><b>Process Discovery</b>: Event-log transformation across SAP <code>VBAK</code>, <code>VBAP</code>, <code>LIKP</code>, <code>LIPS</code>.</li>
+        <li><b>Advanced PQL</b>: Process cycle time, throughput bottlenecks, and rework rate calculation.</li>
+        <li><b>Execution Automation</b>: Action Engine triggers & automated ERP write-backs.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🏗️ Modern Data Engineering</h4>
+      <ul>
+        <li><b>Lakehouse Architecture</b>: Databricks master jobs, Spark batch transforms, environmental memory caching.</li>
+        <li><b>Modern Data Stack</b>: Dimensional star-schema modeling using <b>dbt</b> & <b>DuckDB</b>.</li>
+        <li><b>Data Platforms</b>: Snowflake, PostgreSQL, SQLite WAL concurrency.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤖 Autonomous Applied AI</h4>
+      <ul>
+        <li><b>Process AI</b>: Dual ML delay forecasting + ChromaDB semantic SLA retrieval.</li>
+        <li><b>Acoustic Engine</b>: AMD GPU Vulkan Whisper <code>large-v3</code> speech perception.</li>
+        <li><b>Critic Loops</b>: Self-evaluating multi-agent LLM verification pipelines.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Production Flagships
 
 <table>
   <tr>
@@ -38,11 +101,11 @@ I design and build enterprise data platforms, process intelligence systems, and 
         <a href="https://github.com/Az-har/O2C_AI"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
         <a href="https://github.com/Az-har/O2C_AI"><img src="https://img.shields.io/badge/RAG%20%26%20ML-00A4EF?style=flat-square" alt="RAG" /></a>
       </p>
-      <p><strong>Enterprise Order-to-Cash (O2C) Process Intelligence &amp; AI Engine</strong></p>
+      <p><strong>Enterprise Order-to-Cash (O2C) Process Intelligence &amp; Delay Risk Engine</strong></p>
       <ul>
-        <li><strong>Process Bottleneck Resolution</strong>: Flags delivery delays and resolves execution gaps in transactional SAP/Celonis O2C flows.</li>
-        <li><strong>Databricks Master Pipeline</strong>: Scalable daily scoring with vectorized batch inference, environmental caching, and automated ML evaluation.</li>
-        <li><strong>Multi-Input RAG Validation</strong>: Semantic ChromaDB retrieval cross-verifying contractual SLAs, disruption documents, and penalty exposure ($).</li>
+        <li><strong>Dual AI Architecture</strong>: Mathematical delay prediction on SAP tables coupled with ChromaDB semantic contract &amp; SLA retrieval.</li>
+        <li><strong>Financial Exposure</strong>: Translates late delivery risks into exact contractual dollar ($) penalties.</li>
+        <li><strong>Databricks Pipeline</strong>: Production batch scoring with vectorized inference and automated ML model validation.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Az-har/O2C_AI"><strong>Explore O2C_AI &rarr;</strong></a>
@@ -56,7 +119,7 @@ I design and build enterprise data platforms, process intelligence systems, and 
         <a href="https://github.com/Az-har/youtube-summarizer-audiobook"><img src="https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat-square" alt="Ollama" /></a>
         <a href="https://github.com/Az-har/youtube-summarizer-audiobook"><img src="https://img.shields.io/badge/Audio-EBU_R128-00599C?style=flat-square" alt="Audio" /></a>
       </p>
-      <p><strong>Autonomous 5-Agent Media &amp; Audio Mastering Pipeline</strong></p>
+      <p><strong>Autonomous 5-Agent Media Ingestion &amp; Audio Mastering Pipeline</strong></p>
       <ul>
         <li><strong>Acoustic Perception</strong>: Hardware-accelerated Whisper <code>large-v3</code> on AMD GPUs via Vulkan compute with Silero VAD neural pre-filtering.</li>
         <li><strong>Self-Evaluating Critic Loop</strong>: Autonomous multi-turn LLM judge auditing factual consistency, narrative flow, and ad purging.</li>
@@ -106,5 +169,5 @@ I design and build enterprise data platforms, process intelligence systems, and 
 ---
 
 <div align="center">
-  <sub>Engineered by <b>Azhar</b> • Specialized in Celonis Process Mining, Data Engineering, and Applied AI</sub>
+  <sub>Designed & engineered by <b>Azhar</b> • Powered by Celonis Process Mining, Data Engineering, and Applied AI</sub>
 </div>
